@@ -1,4 +1,4 @@
-from metadataApp_final.app_utils import *
+from app_utils import *
 from db_fxns import *
 
 
