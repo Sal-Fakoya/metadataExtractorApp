@@ -1,5 +1,5 @@
-from MetaData_Extractor_App.metadataApp_final.app_utils import *
-from MetaData_Extractor_App.metadataApp_final.db_fxns import *
+from metadataApp_final.app_utils import *
+from db_fxns import *
 
 
 # Core Packages
