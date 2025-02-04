@@ -79,11 +79,12 @@ black:format
 Dockerfile -> Layers -> Docker image -> Container
 
 
-#### Deploying with streamlit share:
+### Deploying with streamlit share: Deployed Website: [Metadata Extractor App](https://metadata-extractor-app.streamlit.app/)
 + Create an account on streamlit and link your github account.
 + You can deploy your app by connecting your `app_file.py` to the streamlit page. 
 + Note:
     -  I had to create `__init__.py` file because I ran into some `ModuleNotFoundError` and I wanted streamlit to treat the modules as packages.
     - I adjusted the import path statements for the modules to correct the `ModuleNotFoundError`.
     - I uploaded my `_pycache_` folder where the `app_utils.cpython-38.pyc` and `db_fxns.cpython-38.pyc`.
+  
           
