@@ -1,4 +1,4 @@
-# [Meta Data Extraction App]((https://metadata-extractor-app.streamlit.app/))
+# [Meta Data Extraction App](https://metadata-extractor-app.streamlit.app/)
 
 + Packages:
 ```bash
